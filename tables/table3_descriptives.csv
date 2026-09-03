@@ -1,0 +1,13 @@
+Variable,Mean,SD,Min,P25,Median,P75,Max
+Attitude (keyword count),1.4607,1.3768,0.0,0.0,1.0,2.0,17.0
+Subjective norm,0.3607,0.5738,0.0,0.0,0.0,1.0,8.0
+Perceived behavioural control,0.6062,0.8648,0.0,0.0,0.0,1.0,12.0
+Revisit intention,0.2039,0.4453,0.0,0.0,0.0,0.0,4.0
+Satisfaction,0.2108,0.4644,0.0,0.0,0.0,0.0,7.0
+Sentiment (VADER compound),0.8366,0.3188,-0.998,0.877,0.944,0.972,1.0
+Review length (tokens),58.7653,44.9928,15.0,29.0,46.0,73.0,787.0
+Listing prior reviews at t0,93.5765,123.4921,0.0,17.0,52.0,124.0,3845.0
+Listing age at t0 (days),899.1061,828.0028,0.0,244.0,651.0,1366.0,5325.0
+During COVID-19 (0/1),0.3374,0.4728,0.0,0.0,0.0,1.0,1.0
+Y1 same-listing return (0/1),0.0076,0.087,0.0,0.0,0.0,0.0,1.0
+Y2 platform continuance (0/1),0.1985,0.3989,0.0,0.0,0.0,0.0,1.0

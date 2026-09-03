@@ -1,0 +1,12 @@
+variable,eq1_BI,eq2_behaviour
+Revisit intention (BI),,0.2339*** (0.0107)
+Attitude,0.0453*** (0.0033),0.1778*** (0.0176)
+Subjective norm,-0.0684*** (0.0029),-0.0805*** (0.0143)
+Perceived behavioural control,-0.0079*** (0.0018),-0.0611*** (0.0157)
+Satisfaction,0.0178*** (0.0014),0.0420*** (0.0106)
+Sentiment (VADER),0.1234*** (0.0039),0.0615* (0.0256)
+During COVID-19,0.0060 (0.0053),0.1716** (0.0575)
+Review length (log),0.1162*** (0.0031),0.0291 (0.0177)
+Listing prior reviews (log),0.0261*** (0.0035),-0.0825** (0.0270)
+Listing age (log),-0.0253*** (0.0035),0.1000*** (0.0271)
+Constant,-0.0266 (0.0885),-4.0659*** (0.6519)

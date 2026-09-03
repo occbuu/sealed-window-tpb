@@ -1,0 +1,17 @@
+feature,mean_abs_shap,mean_shap,share_pct,block
+city_rate,0.01434,-0.00039,42.15865,control
+ATT,0.00503,-0.00089,14.78072,TPB construct
+month_cos,0.00251,0.00017,7.37074,control
+BI,0.00224,0.00013,6.58421,TPB construct
+SENT,0.00207,-0.00043,6.08912,sentiment
+month_sin,0.00167,0.00041,4.91665,control
+vader_pos,0.00163,0.0001,4.78184,sentiment
+log_prior,0.00122,7e-05,3.57843,control
+log_len,0.00087,-0.00024,2.54802,control
+SN,0.00082,1e-05,2.42428,TPB construct
+log_age,0.00057,-0.00018,1.68097,control
+PBC,0.00053,-1e-05,1.57139,TPB construct
+vader_neg,0.00034,3e-05,1.00456,sentiment
+n_exclaim,0.00017,2e-05,0.51043,control
+SAT,0.0,0.0,0.0,TPB construct
+covid,0.0,0.0,0.0,control

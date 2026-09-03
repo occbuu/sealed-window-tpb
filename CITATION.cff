@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Sealed-window TPB replication package (Paper 1A)"
+message: "If you use this code or analytic file, please cite the article and this release."
+type: software
+license: MIT
+repository-code: "https://github.com/REPLACE_ORG/paper1a-sealed-window-tpb"
+abstract: >
+  Replication package for Paper 1A: a sealed-window test of the theory of
+  planned behaviour on Inside Airbnb reviews. Includes analysis code, tables,
+  figures, and a text-free analytic sample (N = 706,921) with re-hashed IDs.
+keywords:
+  - theory of planned behaviour
+  - revisit intention
+  - online reviews
+  - double machine learning
+  - hospitality
+authors:
+  - family-names: "[to be added]"
+    given-names: "[to be added]"

@@ -1,0 +1,15 @@
+Corpus construction step,Value
+Raw reviews in the 123 Inside Airbnb city corpora,"73,906,516"
+Cities / destinations,123
+Calendar coverage,2008-06-22 to 2026-07-06
+Unique reviewers (estimated from the 5% hash sample),"41,758,820"
+Reviewers drawn into the sample (deterministic 5% hash),"2,087,941"
+Reviews written by sampled reviewers,"3,692,730"
+Focal (first) reviews with a fully observable 24-month window,"1,344,231"
+Retained after English-language and minimum-length screening,"706,921"
+Analytic sample - cities represented,122
+Analytic sample - period,2010-01-09 to 2024-06-15
+Behaviour 1: returned to the same listing (Y1),"5,394 (0.76%)"
+Behaviour 2: continued on the platform (Y2),"140,321 (19.85%)"
+Pre-COVID-19 focal reviews,"468,437 (66.26%)"
+During/after COVID-19 focal reviews,"238,484 (33.74%)"
