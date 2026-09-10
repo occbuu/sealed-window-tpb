@@ -1,0 +1,4 @@
+instrument,auc,prec,rec,f1,inst_prev,human_prev
+dictionary,0.7473,0.8496,0.5393,0.6598,0.2124,0.3346
+encoder,0.7933,0.677,0.6124,0.6431,0.3026,0.3346
+entailment,0.9514,0.7799,0.9157,0.8424,0.3929,0.3346

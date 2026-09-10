@@ -1,0 +1,6 @@
+construct,krippendorff_alpha,raw_pairwise_agreement,prevalence,coder_prevalence_range,verdict
+Attitude,0.147,0.981,0.989,0.94-1.00,Degenerate (no variance)
+Subjective norm,0.736,0.889,0.3,0.23-0.36,Usable
+Perceived behavioural control,0.438,0.741,0.641,0.35-0.99,Below threshold
+Satisfaction,0.267,0.677,0.327,0.02-0.95,Below threshold
+Revisit intention,0.873,0.943,0.335,0.18-0.39,Usable

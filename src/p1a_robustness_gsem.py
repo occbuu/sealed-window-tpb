@@ -1,6 +1,5 @@
 """
-Paper 1A — three GSEM robustness specifications that were claimed in an
-earlier draft but never written to disk:
+Three GSEM robustness specifications:
 
   R1  drop first-review cohorts 2020–2021 (COVID years)
   R2  keep the 30 largest destinations by analytic N
